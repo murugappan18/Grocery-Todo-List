@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Grocery-Todo-List/static/css/main.f8654146.css",
+    "main.js": "/Grocery-Todo-List/static/js/main.5da4e9c3.js",
+    "index.html": "/Grocery-Todo-List/index.html",
+    "main.f8654146.css.map": "/Grocery-Todo-List/static/css/main.f8654146.css.map",
+    "main.5da4e9c3.js.map": "/Grocery-Todo-List/static/js/main.5da4e9c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8654146.css",
+    "static/js/main.5da4e9c3.js"
+  ]
+}
